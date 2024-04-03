@@ -8,8 +8,7 @@
             "defconfig": "extreme_r8s_defconfig" 
           }, 
           "toolchains": [ 
-          "toolchains": [
-      {
+              {
         "repo": "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b",
         "branch": "lineage-20.0",
         "name": "clang",
